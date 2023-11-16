@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;1,700&family=Kumbh+Sans:wght@400;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+body{
+    background:linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+
+
+.box{
+    width: 327px;
+    height: 535px;
+    background: url(assets/Path\ Copy.svg) center top no-repeat;
+    border-radius: 20px;
+    margin-top: 120px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
+.ag4{
+    width: 237px;
+    height: 180px;
+    margin-top: -200px;
+    margin-left: -20px;
+    
+}
+
+
+
+
+h1{
+    color: #1E1F36;
+    font-family: 'Kumbh Sans';
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin: 0 105px 0 105px;
+}
+.txt:hover{
+    color: #F47B56;
+}
+#gela:hover{
+    cursor: pointer;
+}
+
+.first{
+    display: flex;
+    flex-direction: column;
+    column-gap: 35px;
+    margin-top: 40px;
+    margin-bottom: 18px;
+}
+.txt{
+    color: #4B4C5F;
+    font-family: 'Kumbh Sans';
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: start;
+    align-items: start;
+    width: 236px;
+}
+.line{
+    width: 279px;
+    height: 1px;
+    background: #E8E8EA;
+}
+p{
+    display: none;
+}
+.lasha{
+    margin-top: 19px;
+}
+p{
+    width: 279px;
+    color: #787887;
+    font-family: 'Kumbh Sans';
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px; /* 150% */
+}
+.black{
+    color: #1E1F36;
+    font-family: 'Kumbh Sans';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 254px;
+}
+.active{
+    display: block;
+    margin-top: 13px;
+}
+.rotate{
+    transform: rotate(180deg);
+    transition: all 0.3s;
+}
+.samsung{
+    display: flex;
+    flex-direction: column;
+}
+#gela{
+    display: flex;
+    flex-direction: row;
+    column-gap: 34px;
+}
+.mr{
+    width: 177px;
+}
+.msm{
+    width: 179px;
+}
+.mtx{
+    width: 214px;
+}
+.dn{
+    display: none;
+}
+
+.ag6{
+    display: none;
+}

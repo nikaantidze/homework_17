@@ -1,0 +1,69 @@
+@media (width >= 1439px){
+    
+
+    body{
+
+       
+        background-image: none;
+        background:linear-gradient(180deg, #B068E9 0%, #6463E7 100%);
+    }
+    .dn{
+        display: block;
+        margin-left: -115px;
+    }
+    .gogo{
+        display: none;
+    }
+    .xazi{
+        width: 350px;
+        height: 1px;
+        flex-shrink: 0;
+    }
+    #box1{
+        column-gap: 72px;
+    }
+    h1{
+        color: #1E1F36;
+        font-family: 'Kumbh Sans';
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin: 0;
+    }
+    #txt1{
+        color: #4B4C5F;
+        font-family: 'Kumbh Sans';
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        width: 253px;
+    }
+    .box{
+        width: 920px;
+        height: 509px;
+        background: url(assets/mention_isometric\ 2.png) center top;
+        margin-bottom: 300px;
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    .ag6{
+        display: flex;
+        display: block;
+        position: absolute;
+        top: 40%;
+        right: 75%;
+        
+    }
+
+    .ag4{
+        display: none;
+    }
+
+
+    .group1{
+        margin-left: 280px;
+ }
+}
